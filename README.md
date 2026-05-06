@@ -25,7 +25,7 @@
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](light-preview.png) | ![Dark Mode](dark-preview.png) |
+| ![Light Mode](preview.png) | ![Dark Mode](dark-preview.png) |
 
 ---
 
